@@ -30,7 +30,9 @@
         </head>
         <body>
             <table>
-                <tr><center><h2>Student Marks Sheet</h2></center></tr>
+                <tr>
+                    <th colspan="6"><h2>Students Mark Sheet</h2></th>
+                </tr>
                 <tr>
                     <th>Name</th>
                     <th>Maths</th>
